@@ -1,2 +1,2 @@
 # ejercicio-examen-simulacro
-Prueba personal propuesta por el Master
+# Ejercicio: crea un fichero solucion.txt
